@@ -6,3 +6,9 @@
      Examples:
        | UserName | Password |
        | ViratKohli25@rcb.com|Kingkohli@rcb2025|
+
+     Scenario: User needs to print for demo purpose
+       Given User needs to enter the URL
+       When user needs to print something for example purpsoe
+       Then User needs to close the browser
+
