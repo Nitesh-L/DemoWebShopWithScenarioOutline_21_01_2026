@@ -45,6 +45,7 @@ public class LoginPage extends SeleniumCommands
          {
              System.out.println("User has not logged in or alredy loggedin ");
          }
+         CloseBrowser();
      }
 
 }
